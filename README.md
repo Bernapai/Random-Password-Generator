@@ -17,16 +17,16 @@ Para poder ejecutar este proyecto, necesitas tener instaladas las siguientes dep
 - `pyperclip` para copiar al portapapeles
 
 ## Pasos de intalacion
+
+## Pasos de instalacion
+
 - Clona el repositorio
-   ```bash
- git clone https://github.com/Bernapai/Random-Password-Generator.git
-
-  
+```bash
+git clone https://github.com/Bernapai/Random-Password-Generator.git
 - Luego instala dependencias
-```bash
+``` bash
 pip install pyperclip
-
-
-- Por ultimo , en la consola ejecuta el siguiente script 
+Por ultimo, en la consola ejecuta el siguiente script
 ```bash
+
 python view.py
