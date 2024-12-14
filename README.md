@@ -16,7 +16,16 @@ Para poder ejecutar este proyecto, necesitas tener instaladas las siguientes dep
 - Tkinter (normalmente viene preinstalado con Python)
 - `pyperclip` para copiar al portapapeles
 
-Puedes instalar las dependencias necesarias ejecutando:
+## Pasos de intalacion
+- Clona el repositorio
+- ```bash
+  git clone https://github.com/Bernapai/Random-Password-Generator.git
 
+  
+- Luego instala dependencias
 ```bash
 pip install pyperclip
+
+-Por ultimo , en la consola ejecuta el script :
+```bash
+python view.py
