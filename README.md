@@ -18,14 +18,15 @@ Para poder ejecutar este proyecto, necesitas tener instaladas las siguientes dep
 
 ## Pasos de intalacion
 - Clona el repositorio
-- ```bash
-  git clone https://github.com/Bernapai/Random-Password-Generator.git
+   ```bash
+ git clone https://github.com/Bernapai/Random-Password-Generator.git
 
   
 - Luego instala dependencias
 ```bash
 pip install pyperclip
 
--Por ultimo , en la consola ejecuta el script :
+
+- Por ultimo , en la consola ejecuta el siguiente script 
 ```bash
 python view.py
